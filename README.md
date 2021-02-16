@@ -16,6 +16,6 @@ team project
 |  THREATS      \
 -People could just use easy websites like SquareSpace \
 -People wouldn’t be willing to pay if they think they can do it themselves\
--Bigger companies can shadow over ours since it’s a smaller business\
+-Bigger companies can shadow over ours since it’s a smaller business
 
 4. We are going to make a website that can store log on data for clients and store information co-insiding with their location ie address and what they are requesting for their website design, ie a list of features and requirements.
