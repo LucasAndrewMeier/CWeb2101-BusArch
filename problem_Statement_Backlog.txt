@@ -1,1 +1,13 @@
 
+Documentation
+logon _ research options for logon creation.
+knowledge acquisition about chosen logon creation method.
+
+research javascript code - progress tracker
+Create progress tracker
+
+make wireframes for display selection
+
+mysql research 
+design database
+create database
